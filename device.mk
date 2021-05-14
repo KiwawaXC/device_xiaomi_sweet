@@ -334,6 +334,10 @@ PRODUCT_PACKAGES += \
     libjson \
     librmnetctl
 
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 # Sensors
 PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0-impl \

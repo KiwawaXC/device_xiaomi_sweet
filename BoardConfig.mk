@@ -136,6 +136,8 @@ TARGET_COPY_OUT_PRODUCT := product
 TARGET_COPY_OUT_SYSTEM_EXT := system_ext
 TARGET_COPY_OUT_VENDOR := vendor
 
+-include vendor/lineage/config/BoardConfigReservedSize.mk
+
 # Platform
 BOARD_USES_QCOM_HARDWARE := true
 TARGET_BOARD_PLATFORM := sm6150

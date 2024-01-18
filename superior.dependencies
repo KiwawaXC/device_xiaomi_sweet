@@ -26,13 +26,7 @@
   {
     "repository": "unsatifsed27/miuicamera",
     "target_path": "vendor/xiaomi/sweet-miuicamera",
-    "branch": "tosle14",
-    "remote": "gitlab"
-  },
-  {
-    "repository": "unsatifsed27/dolby",
-    "target_path": "packages/apps/ViPER4AndroidFX",
-    "branch": "viper",
+    "branch": "leica14",
     "remote": "gitlab"
   }
 ]

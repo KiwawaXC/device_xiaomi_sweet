@@ -361,7 +361,7 @@ PRODUCT_COPY_FILES += \
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-superior
+    $(LOCAL_PATH)/overlay-derp
 
 # Overlay-RRO
 PRODUCT_PACKAGES += \
@@ -440,7 +440,7 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     hardware/google/interfaces \
     hardware/google/pixel \
-    hardware/xiaomi
+    hardware/xiaomi-sweet
 
 # Telephony
 PRODUCT_PACKAGES += \

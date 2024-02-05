@@ -3,7 +3,7 @@ soong_namespace {
         "hardware/google/interfaces",
         "hardware/google/pixel",
         "hardware/qcom-caf/common/fwk-detect",
-        "hardware/xiaomi",
+        "hardware/xiaomi-sweet",
     ],
 }
 

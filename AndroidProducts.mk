@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_sweet.mk
+    $(LOCAL_DIR)/rising_sweet.mk
+
+COMMON_LUNCH_CHOICES := \
+    rising_sweet-user \
+    rising_sweet-userdebug \
+    rising_sweet-eng
